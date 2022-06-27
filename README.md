@@ -1,2 +1,3 @@
 # Draw.io-Repository
-存放Draw.io的图片用于线上同步
+该仓库用于存放Draw.io文件用于线上同步
+🍭🍭🍭🍭🍭🍭
