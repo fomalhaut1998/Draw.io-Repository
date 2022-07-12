@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T09:31:43.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="B-E03EDRoOyoV8DHPgfb" type="github"><diagram id="WngT-KIcbrLMs7f-iXUl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-12T09:41:09.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6zdWMhMquuzIUwENmfsm" version="20.0.4" type="github">
+  <diagram id="WngT-KIcbrLMs7f-iXUl" name="第 1 页">
+    <mxGraphModel dx="942" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JKOB-2gbKJNEYZaVXj2i-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="580" y="270" width="30" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JKOB-2gbKJNEYZaVXj2i-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="230" width="30" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="JKOB-2gbKJNEYZaVXj2i-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="530" y="320" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JKOB-2gbKJNEYZaVXj2i-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="680" y="190" width="30" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JKOB-2gbKJNEYZaVXj2i-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="430" y="250" width="30" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JKOB-2gbKJNEYZaVXj2i-6" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px;&quot;&gt;3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JKOB-2gbKJNEYZaVXj2i-7" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px;&quot;&gt;5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="200" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JKOB-2gbKJNEYZaVXj2i-8" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px;&quot;&gt;6&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JKOB-2gbKJNEYZaVXj2i-9" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px;&quot;&gt;4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="215" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JKOB-2gbKJNEYZaVXj2i-10" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="290" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JKOB-2gbKJNEYZaVXj2i-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;fontSize=14;fillColor=#b0e3e6;strokeColor=#0e8088;endWidth=16;endSize=3.41;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="398" as="sourcePoint" />
+            <mxPoint x="570" y="398" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JKOB-2gbKJNEYZaVXj2i-12" value="&lt;font face=&quot;Comic Sans MS&quot; style=&quot;font-size: 14px;&quot;&gt;nums[i]&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="383.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JKOB-2gbKJNEYZaVXj2i-13" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;当前要寻找nums[i]右边首个大于自身的元素&lt;br&gt;因此要1与3就要出栈&lt;br&gt;5就是正确答案&lt;br&gt;1与3的存在已经没有意义&lt;br&gt;因为如果来了下一个nums[i]找右边首个大于自身的元素，总是会优先选择到4&lt;br&gt;或者说4也不符合题意，那么1与3更加不符合&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="345" y="414" width="500" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JKOB-2gbKJNEYZaVXj2i-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fontFamily=Comic Sans MS;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="535" y="270" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JKOB-2gbKJNEYZaVXj2i-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fontFamily=Comic Sans MS;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="585" y="215" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JKOB-2gbKJNEYZaVXj2i-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fontFamily=Comic Sans MS;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="630" y="180" width="25" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
